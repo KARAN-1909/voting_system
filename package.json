@@ -4,8 +4,8 @@
   "main": "server.js",
   
   "engines": {
-  "node": "18.x"
-  },
+  "node": "18.17.0"
+  }
   
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
